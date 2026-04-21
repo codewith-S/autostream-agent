@@ -15,7 +15,7 @@ class AgentState(TypedDict):
 
 # ---------------- INTENT NODE ----------------
 def intent_node(state):
-    # 🔥 Prevent overriding during lead flow
+    #  Prevent overriding during lead flow
     if state.get("step") not in [None, "done"]:
         return state
 
@@ -93,7 +93,7 @@ def lead_flow_node(state):
 
     state["response"] = "You're all set! We'll contact you soon."
 
-    # 🔥 STOP the flow completely
+    #  STOP the flow completely
     state["step"] = "done"
     return state
 # ---------------- GRAPH ----------------
@@ -136,7 +136,7 @@ if __name__ == "__main__":
 
     
 
-    print("🤖 AutoStream Agent Started! Type 'exit' to quit.\n")
+    print("AutoStream Agent Started! Type 'exit' to quit.\n")
 
     while True:
         user_input = input("You: ")
