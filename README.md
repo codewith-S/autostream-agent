@@ -1,4 +1,4 @@
-# 🤖 AutoStream AI Agent (Social-to-Lead Workflow)
+#  AutoStream AI Agent (Social-to-Lead Workflow)
 
 ##  Overview
 
