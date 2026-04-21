@@ -90,5 +90,5 @@ The demo showcases:
 ##  Demo Video
 
 Watch the demo here:
-**[Watch Demo](https://drive.google.com/file/d/1IdHwl-2jfaihKLJsfokbxs7qf9ngWHYn/view?usp=sharing)**
+**[Social-to-Lead Agentic Workflow](https://drive.google.com/file/d/1IdHwl-2jfaihKLJsfokbxs7qf9ngWHYn/view?usp=sharing)**
 ---
